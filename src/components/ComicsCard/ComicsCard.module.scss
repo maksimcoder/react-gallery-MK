@@ -1,0 +1,31 @@
+.card {
+    width: 300px;
+}
+
+.thumbnail {
+    width: 100%;
+    height: 100%;
+    max-height: 250px;
+}
+
+.title {
+    color: white;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.dates {
+    font-size: 22px;
+    color: white;
+}
+
+.fav {
+    width: 30px;
+    height: 30px;
+
+    cursor: pointer;
+}
